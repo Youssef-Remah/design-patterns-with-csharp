@@ -1,0 +1,24 @@
+# Visual Studio-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# Build output directories
+bin/
+obj/
+out/
+
+# Logs and debugging
+logs/
+*.log
+Debug/
+RELEASE/
+
+# User-specific files
+*.suo
+*.user
+*.ttf
+*.pdb
