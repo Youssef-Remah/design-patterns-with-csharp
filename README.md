@@ -26,7 +26,7 @@ _(I will keep adding patterns for each category over time. Currently, the focus 
 1- Clone the repository:
 
 ```
-git clone https://github.com/yourusername/CSharp-Design-Patterns.git
+git clone https://github.com/Youssef-Remah/design-patterns-with-csharp.git
 ```
 
 2- Open the solution in your IDE
