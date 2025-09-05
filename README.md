@@ -20,6 +20,7 @@ _(I will keep adding patterns for each category over time. Currently, the focus 
 **Creational Patterns**
 
 - Factory
+- Factory Method
 
 ## How to Use
 
